@@ -6,3 +6,8 @@ A Social Mill
 ![Dependencies](https://img.shields.io/badge/dependencies-up%20to%20date-brightgreen.svg)
 ![GitHub Issues](https://img.shields.io/github/issues/KarhooColin/API_BDD.svg)
 ![Contributions welcome](https://img.shields.io/badge/contributions-welcome-orange.svg)
+
+
+A simple platform to promote and announce on Social media platforms
+
+
